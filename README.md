@@ -58,3 +58,7 @@ For all hardware, cost-saving measures are the priority.
 - Infrastructure Controls
   - OS will be based on RHEL UBI
   - SELINUX must be enforced
+
+## Diagrams
+
+![Infrastructure](https://gcdnb.pbrd.co/images/wGujX2uQq5yE.png?o=1)
