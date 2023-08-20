@@ -63,6 +63,25 @@ For all hardware, cost-saving measures are the priority.
 ### Top Level Domain
 ` www.spotifyart.ai`
 
+### Client URLs v1
+#### Home 
+`GET wwww.spotifyart.ai/`
+
+### User Matching Art Generation
+`GET wwww.spotifyart.ai/discover`
+
+### Music Art Synthesis Service API v1
+### Spotify
+`GET /api/v1/music/mood `
+  - retrieve's a user's spotify mood based of their top listen playlist.
+
+`POST /api/v1/ai/art `
+- retrieves's a stable diffusion art inference.
+  
+
+
+### Client URLS v2
+` www.spotifyart.ai/match`
 ## Diagrams
 
 ![Infrastructure](https://gcdnb.pbrd.co/images/CLhGstsSQWCm.png?o=1)
