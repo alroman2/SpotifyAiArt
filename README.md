@@ -58,7 +58,11 @@ For all hardware, cost-saving measures are the priority.
 - Infrastructure Controls
   - OS will be based on RHEL UBI
   - SELINUX must be enforced
+ 
+## API
+### Top Level Domain
+` www.spotifyart.ai`
 
 ## Diagrams
 
-![Infrastructure](https://gcdnb.pbrd.co/images/wGujX2uQq5yE.png?o=1)
+![Infrastructure](https://gcdnb.pbrd.co/images/CLhGstsSQWCm.png?o=1)
