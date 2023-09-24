@@ -1,6 +1,6 @@
 # SpotifyAiArt
 
-This application allows a user to generate Ai Art based on their Spotify music "Mood" when matched to another person.
+This application allows a user to generate Ai Art based on their Spotify music "Mood" when matched to another person. It also can be used to generate playlist covers.
 
 ## Technical Stack & Justifications
 ### Fronted
