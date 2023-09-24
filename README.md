@@ -85,4 +85,4 @@ For all hardware, cost-saving measures are the priority.
 ## Diagrams
 
 ![Infrastructure](https://gcdnb.pbrd.co/images/CLhGstsSQWCm.png?o=1)
-![Databsae](https://https://gcdnb.pbrd.co/images/kLQ8eWRFIWBI.png?o=1)
+![Databsae](https://gcdnb.pbrd.co/images/kLQ8eWRFIWBI.png?o=1)
